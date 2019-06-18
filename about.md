@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi. I'm Jonah Golden.
 
-### More Information
+I like to use data to tell stories.
 
-A place to include any other types of information that you'd like to include about yourself.
+Questions? Send me an email.
 
 ### Contact me
 
