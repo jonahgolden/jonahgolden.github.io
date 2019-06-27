@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi. I'm Jonah Golden.
 
-I like to use data to tell stories.
+I'm currently an MS Computer Science graduate student at Northeastern University Seattle.
 
 Questions? Send me an email.
 
