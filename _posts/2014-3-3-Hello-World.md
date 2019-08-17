@@ -3,15 +3,6 @@ layout: post
 title: You're up and running!
 ---
 
-```{r, echo=FALSE}
-shinyAppDir(
-  system.file("../../Health-Visualizations/src/scripts/simple_bar.R", package = "shiny"),
-  options = list(
-    width = "100%", height = 550
-  )
-)
-```
-
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
