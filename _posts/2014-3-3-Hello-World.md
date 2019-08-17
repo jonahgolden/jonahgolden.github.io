@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-```{r tabsets, echo=FALSE}
+```{r, echo=FALSE}
 shinyAppDir(
   system.file("../../Health-Visualizations/src/scripts/simple_bar.R", package = "shiny"),
   options = list(
