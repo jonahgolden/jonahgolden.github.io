@@ -4,5 +4,5 @@ title: Smoking Discrepancy
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/smoking-estimates.png)
+![Smoking death estimates 2016 vs 2017](../assets/smoking-estimates.png)
 
