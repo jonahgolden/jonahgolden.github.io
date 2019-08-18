@@ -8,14 +8,6 @@ Through an internship with the California Department of Public Health, I have re
 The first chart I created is a series of simple bar charts that show the top causes or risks for four common measures:
 ![Simple bar screenshot](../assets/simple-bar.png)
 
-```{r}
-# Source: http://www.htmlwidgets.org/showcase_plotly.html
-library(plotly)
-p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
-            geom_bar(position = "dodge")
-ggplotly(p)
-```
-
 
 The first visualization I created with IHME data is a diagram that shows the change in rankings between two years of causes or risks:
 ![Arrows diagram screenshot](../assets/arrows.png)
